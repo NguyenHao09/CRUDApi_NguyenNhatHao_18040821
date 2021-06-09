@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CRUDApi_NguyenNhatHao_18040821"
